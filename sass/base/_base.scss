@@ -1,0 +1,33 @@
+/* ------- CSS reset ------- */
+*,
+*::after,
+*::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit;
+}
+
+html {
+  //this defines 1rem (10px)
+  font-size: 62.5%;
+
+  @include respond(tab-land) {
+    font-size: 56.25%;
+  }
+  @include respond(tab-port) {
+    font-size: 50%;
+  }
+  @include respond(large-desk) {
+    font-size: 75%;
+  }
+}
+
+body {
+  transition: all 300ms;
+  box-sizing: border-box;
+  padding: 3rem;
+  
+  @include respond(tab-port) {
+    padding: 0;
+  }
+}
