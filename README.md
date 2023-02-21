@@ -25,7 +25,7 @@ Built by CAMZJJ. Designed by JONAS SCHMEDTMANN as part of his online ADVANCED CS
 
 ### Links
 
-- [Skilled site URL](https://camjj-natours.netlify.app/)
+- [Natours site URL](https://camjj-natours.netlify.app/)
 
 
 ### Built with
