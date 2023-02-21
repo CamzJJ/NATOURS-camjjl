@@ -38,11 +38,11 @@ Built by CAMZJJ. Designed by JONAS SCHMEDTMANN as part of his online ADVANCED CS
 
 ### What I learned
 
-I learn how to use the command line, how to do NPM installs, 
+I learn how to use the command line, how to do NPM installs, write scss code.
 
 ### Useful resources
 
-- [Advanced CSS and Sass: Flexbox, Grid, Animations and More!](https://www.udemy.com/course/advanced-css-and-sass/) - Link to the 
+- [Advanced CSS and Sass: Flexbox, Grid, Animations and More!](https://www.udemy.com/course/advanced-css-and-sass/) - Link to the course
 
 ## Author
 
