@@ -17,42 +17,32 @@ This is a solution to the [Skilled e-learning landing page challenge on Frontend
 
 ## Overview
 
-### The challenge
-
-Users should be able to:
-
-- View the optimal layout depending on their device's screen size
-- See hover states for interactive elements
+Built by CAMZJJ. Designed by JONAS SCHMEDTMANN as part of his online ADVANCED CSS AND SASS course. Copyright © by Jonas Schmedtmann.
 
 ### Screenshot
 
 ![](/screenshots.jpg)
 
 ### Links
-- [Skilled site URL](https://camjj-skilled-challenge.netlify.app/)
 
-## My process
+- [Skilled site URL](https://camjj-natours.netlify.app/)
 
-I first went through the design and thought about the layout and how I needed to structure the HTML. Once I had an idea of how everything needed to be structure I then began putting the HTML together whilst referring to the design systems to find what can be stored with in variable and reusable classes such as font sizes, colours, and spacing. Then I proceeded to code with more specificity for each of the sections and elements.
 
 ### Built with
 
 - Semantic HTML5 markup
 - CSS custom properties
+- SCSS
 - Flexbox
 - CSS Grid
 
 ### What I learned
-how to use breakpoint and create responsive images with multiple sources for different screen sizes and compatiblity across browsers. Use of grids for the "Popular courses" section of the site.
 
-### Continued development
-Improve my use of breakpoints for better responsive designs and start using a mobile first workflow. 
+I learn how to use the command line, how to do NPM installs, 
 
 ### Useful resources
 
-- [Advanced CSS and Sass: Flexbox, Grid, Animations and More!](https://www.udemy.com/course/advanced-css-and-sass/) - This course was a useful resource for creating responsive designs.
-
-- [filter](https://css-tricks.com/almanac/properties/f/filter/) - This article helped me to create the hovers states for the buttons. 
+- [Advanced CSS and Sass: Flexbox, Grid, Animations and More!](https://www.udemy.com/course/advanced-css-and-sass/) - Link to the 
 
 ## Author
 
